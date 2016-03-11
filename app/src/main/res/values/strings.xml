@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Holaudea</string>
+    <string name="saludo">Hola ude@</string>
+    <string name="titulo">Formulario</string>
+    <string name="to">To</string>
+    <string name="subject">Suject</string>
+    <string name="massage">Massage</string>
+    <string name="send">Send</string>
+</resources>
